@@ -11,7 +11,7 @@ Press SPACE or LMB to switch colors.
 
 ## Play the Game
 Download the build from the link below:
-https://re3vu.itch.io/colordash
+https://raghuveer-singh-shekhawat.itch.io/colordash
 
 
 ## About
